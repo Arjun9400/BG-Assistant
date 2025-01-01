@@ -1,0 +1,28 @@
+{
+    "commands": {
+        "yt": {
+            "type": "url",
+            "action": "https://www.youtube.com/"
+        },
+        "word": {
+            "type": "file",
+            "action": "C:\\Program Files\\Microsoft Office\\root\\Office16\\WINWORD.EXE"
+        },
+        "todo": {
+            "type": "file",
+            "action": "C:\\notes\\todo.txt"
+        },
+		"resev": {
+            "type": "file",
+            "action": "C:\\###stuff\\notes\\###Resevoir.txt"
+        },
+        "pytest": {
+            "type": "file",
+            "action": "C:\\python files\\test.py"
+        }
+    },
+    "key_bindings": {
+        "open_terminal": "f4",
+        "close_terminal": "f3"
+    }
+}
