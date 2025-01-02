@@ -2,9 +2,9 @@ import sys
 import subprocess
 import keyboard 
 from instructions import Commands
-from tendo import singleton
+#from tendo import singleton
 
-me = singleton.SingleInstance() # allows only 1 instance to run at a time
+#me = singleton.SingleInstance() # allows only 1 instance to run at a time
 
 
 def exec_func():
