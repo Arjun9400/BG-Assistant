@@ -1,4 +1,4 @@
-# CommandPad
+# QuickPad
 
 Highly customizable project allows users to interact with a terminal-like GUI which runs in background and can be controlled through configurable key bindings in the json file. The terminal can be used to open url, files and run scripts using custom keywords.
 
