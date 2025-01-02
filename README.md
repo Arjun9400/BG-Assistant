@@ -38,4 +38,4 @@ Highly customizable project allows users to interact with a terminal-like GUI wh
        }
    }
 2. You might have to add this script as an exclusion to your anti-virus to work properly.
-3. Script can added to task scheduler to run on startup to always have it on background
+3. Script can added to task scheduler to run on startup to always have it on background.
