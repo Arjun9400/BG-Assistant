@@ -37,6 +37,6 @@ Highly customizable program which allows users to interact with a terminal-like 
            "close_terminal": "f3"
        }
    }
-2. Run Main.pyw 
+2. Run `main.pyw` 
 3. You might have to add this script as an exclusion to your anti-virus to work properly.
 4. Script can added to task scheduler to run on startup to always have it on background.
